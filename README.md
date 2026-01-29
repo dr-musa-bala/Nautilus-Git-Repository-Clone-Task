@@ -43,7 +43,7 @@ The original repository was created earlier but remained unused. The task was to
 The task must be executed strictly as the **natasha** user.
 
 ```bash
-sudo su - natasha
+ssh natasha@ststor01
 ```
 
 ---
